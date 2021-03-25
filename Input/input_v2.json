@@ -1,0 +1,44 @@
+[
+	[
+		{
+			"speaker": "A",
+			"utterance": "난 운동할때가 제일 좋아."
+		},
+		{
+			"speaker": "B",
+			"utterance": "나도운동하는걸 좋아하는대 무슨운동할때가 제일 좋아?"
+		},
+		{
+			"speaker": "A",
+			"utterance": "내가 제일좋아하는 운동은 축구야 축구를할때는 땀도나고 기분도 좋아져."
+		},
+		{
+			"speaker": "B",
+			"utterance": "그때 기분 좋지!"
+		},
+		{
+			"speaker": "A",
+			"utterance": "그리고 농구하는것도 좋아해 공이 링을 통과할때 짜릿하거든."
+		},
+		{
+			"speaker": "A",
+			"utterance": "너는 취미가 뭐야?"
+		},
+		{
+			"speaker": "B",
+			"utterance": "나도 운동을 좋아하지만 여행하는걸 더좋아해."
+		},
+		{
+			"speaker": "A",
+			"utterance": "와우 여행!"
+		},
+		{
+			"speaker": "A",
+			"utterance": "어디를 여행했엇니?"
+		},
+		{
+			"speaker": "B",
+			"utterance": "지난 겨울방학에는 스키장으로 여행을 갔어 난거기서 스노우보드를 탔어."
+		}
+	]
+]

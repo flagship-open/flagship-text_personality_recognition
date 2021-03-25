@@ -1,0 +1,24 @@
+[
+	[
+		{
+			"speaker": "A",
+			"utterance": "로리 새 프로젝트를 시작하는데 로리씨가 도와줬으면 좋겠어."
+		},
+		{
+			"speaker": "B",
+			"utterance": "그럼 전 영광이죠."
+		},
+		{
+			"speaker": "B",
+			"utterance": "정말 감사합니다."
+		},
+		{
+			"speaker": "A",
+			"utterance": "있잖아 로리씨의 업무 능력은 거의 항상 최고 수준이야."
+		},
+		{
+			"speaker": "B",
+			"utterance": "감사합니다."
+		}
+	]
+]

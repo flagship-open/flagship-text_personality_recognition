@@ -1,0 +1,32 @@
+[
+	[
+		{
+			"speaker": "A",
+			"utterance": "모든 엘리베이터가 공사 중이라니 믿을 수 없어."
+		},
+		{
+			"speaker": "B",
+			"utterance": "8층에 있는 사무실까지 계단으로 올라 가야 해!!"
+		},
+		{
+			"speaker": "A",
+			"utterance": "이게 말이 돼?"
+		},
+		{
+			"speaker": "B",
+			"utterance": "말 안 된다고 봄."
+		},
+		{
+			"speaker": "A",
+			"utterance": "그러나 어쩔 수 없으므로 걷기 시작하자."
+		},
+		{
+			"speaker": "B",
+			"utterance": "엘리베이터 최소 한 대는 작동 시켰어야 해."
+		},
+		{
+			"speaker": "A",
+			"utterance": "음, 우리 오늘 퇴근 후 헬스장은 안가도 될 듯!"
+		}
+	]
+]
